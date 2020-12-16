@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Challenge</string>
+  <string name="network_error">Network not available</string>
+    <string name="lower_bound">Lower bound</string>
+  <string name="upper_bound">Upper bound</string>
+    <string name="get_comments">GET COMMENTS</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_lower_more_high">The lower bound must be less than the upper bound</string>
+</resources>
